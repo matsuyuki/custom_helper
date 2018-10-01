@@ -1,3 +1,3 @@
 # custom_helper
 
-Helper for Codeignitere
+Helper for Codeigniter
